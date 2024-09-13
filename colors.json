@@ -1,0 +1,28 @@
+{
+  "colors": [
+    {
+      "name": "Color 1",
+      "images": [
+        "images/color1-image1.jpg",
+        "images/color1-image2.jpg",
+        "images/color1-image3.jpg"
+      ]
+    },
+    {
+      "name": "Color 2",
+      "images": [
+        "images/color2-image1.jpg",
+        "images/color2-image2.jpg",
+        "images/color2-image3.jpg"
+      ]
+    },
+    {
+      "name": "Color 3",
+      "images": [
+        "images/color3-image1.jpg",
+        "images/color3-image2.jpg",
+        "images/color3-image3.jpg"
+      ]
+    }
+  ]
+}
